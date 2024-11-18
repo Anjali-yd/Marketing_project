@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Marketing Event">894cce59479412103fae76a4416d43f2</application>
+        <filter/>
+        <name>Equipment requests</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_1101973_marketin.equipment_request_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-27 18:28:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5e2ec61d479412103fae76a4416d435a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Equipment requests</sys_name>
+        <sys_package display_value="Marketing Event Application" source="x_1101973_marketin">a6d8ced1479412103fae76a4416d4366</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketing Event Application">a6d8ced1479412103fae76a4416d4366</sys_scope>
+        <sys_update_name>sys_ui_module_5e2ec61d479412103fae76a4416d435a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-27 18:28:03</sys_updated_on>
+        <table>x_1101973_marketin_equipment_request</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Marketing Event Application">a6d8ced1479412103fae76a4416d4366</application>
+        <file_path/>
+        <instance_id>ac0a491bdb223154ae4c9027c59619e5</instance_id>
+        <instance_name>dev220273</instance_name>
+        <name>sys_ui_module_5e2ec61d479412103fae76a4416d435a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Marketing Event">894cce59479412103fae76a4416d43f2</application>
+        <filter/>
+        <name>Equipment requests</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_1101973_marketin.equipment_request_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-27 18:28:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5e2ec61d479412103fae76a4416d435a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Equipment requests</sys_name>
+        <sys_package display_value="Marketing Event Application" source="x_1101973_marketin">a6d8ced1479412103fae76a4416d4366</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketing Event Application">a6d8ced1479412103fae76a4416d4366</sys_scope>
+        <sys_update_name>sys_ui_module_5e2ec61d479412103fae76a4416d435a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-27 18:28:03</sys_updated_on>
+        <table>x_1101973_marketin_equipment_request</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>]]></payload>
+        <payload_hash>2045913822</payload_hash>
+        <record_name>Equipment requests</record_name>
+        <reverted_from/>
+        <source>603f1c12c37192105784ba2ed4013154</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-13 02:31:25</sys_created_on>
+        <sys_id>613f5c12c37192105784ba2ed401317f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193235c81a50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-13 02:31:25</sys_updated_on>
+        <type>Module</type>
+        <update_guid>213f5c127c7192108e4da2267a27b77f</update_guid>
+        <update_guid_history>213f5c127c7192108e4da2267a27b77f:2045913822</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-14 01:10:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>38c75eebf52440aa9216d05dc9180704</sys_id>
+        <sys_metadata>5e2ec61d479412103fae76a4416d435a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Equipment requests</sys_name>
+        <sys_package display_value="Marketing Event Application" source="x_1101973_marketin">a6d8ced1479412103fae76a4416d4366</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Marketing Event Application">a6d8ced1479412103fae76a4416d4366</sys_scope>
+        <sys_scope_delete display_value="">439dae4daf9b4034ab73dca7313ca971</sys_scope_delete>
+        <sys_update_name>sys_ui_module_5e2ec61d479412103fae76a4416d435a</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_5e2ec61d479412103fae76a4416d435a">613f5c12c37192105784ba2ed401317f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-14 01:10:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

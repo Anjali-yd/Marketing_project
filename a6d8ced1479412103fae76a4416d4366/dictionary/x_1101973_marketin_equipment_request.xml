@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="93ed4299479412103fae76a4416d4367" label="Equipment request" max_length="40" name="x_1101973_marketin_equipment_request" type="collection"/>
+    <element db_object_id="3f7695e6c3f5d2105784ba2ed40131b2" extends="task" label="Equipment request" max_length="40" name="x_1101973_marketin_equipment_request" type="collection">
+        <element label="Needed from" max_length="40" name="needed_from" type="glide_date"/>
+        <element display="true" label="Type" max_length="40" name="type" type="string"/>
+        <element label="Cost" max_length="20" name="cost" type="currency"/>
+        <element label="Marketing event" max_length="32" name="marketing_event" reference="x_1101973_marketin_marketing_event" type="reference"/>
+        <element label="Needed until" max_length="40" name="needed_until" type="glide_date"/>
+    </element>
 </database>
