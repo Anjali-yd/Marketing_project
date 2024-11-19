@@ -14,20 +14,6 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-11-16 00:12:16</sys_updated_on>
         </sys_ui_form_section>
-        <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-11-16 00:12:16</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>b82c1f4bc33112105784ba2ed40131bc</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_overrides/>
-            <sys_ui_form display_value="x_1101973_marketin_marketing_event" name="x_1101973_marketin_marketing_event" sys_domain="global" view="Default view">682c1f4bc33112105784ba2ed401316d</sys_ui_form>
-            <sys_ui_section caption="New Section" display_value="New Section" name="x_1101973_marketin_marketing_event" sys_domain="global" view="Default view">6c2c1f4bc33112105784ba2ed401316b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-11-16 00:12:16</sys_updated_on>
-        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_1101973_marketin_marketing_event</name>
             <roles/>

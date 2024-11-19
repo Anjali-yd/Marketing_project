@@ -2,7 +2,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="Request Marketing Event">a9c5049bc3f112105784ba2ed40131d9</cat_item>
+        <cat_item display_value="Request Marketing event">a9c5049bc3f112105784ba2ed40131d9</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -22,7 +22,7 @@
         <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field/>
+        <field>sponser</field>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
@@ -39,10 +39,10 @@
         <macro/>
         <macroponent/>
         <mandatory>false</mandatory>
-        <map_to_field>false</map_to_field>
+        <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>sponsor</name>
+        <name>sponser</name>
         <not_available_conversation>false</not_available_conversation>
         <order>300</order>
         <post_insert_script/>
@@ -58,8 +58,9 @@
         <record/>
         <record_producer_table>x_1101973_marketin_marketing_event</record_producer_table>
         <reference>sys_user</reference>
-        <reference_qual/>
-        <reference_qual_condition/>
+        <reference_qual>null</reference_qual>
+        <reference_qual_condition table="sys_user">null<item endquery="false" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </reference_qual_condition>
         <rich_text/>
         <roles_to_use_also_request_for/>
         <save_script><![CDATA[/** This script is executed before the Record is generated
@@ -79,14 +80,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-11-16 03:32:14</sys_created_on>
         <sys_id>06e900dfc3f112105784ba2ed40131cd</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>event  sponsor</sys_name>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>sponser</sys_name>
         <sys_package display_value="Marketing Event Application" source="x_1101973_marketin">a6d8ced1479412103fae76a4416d4366</sys_package>
         <sys_policy/>
         <sys_scope display_value="Marketing Event Application">a6d8ced1479412103fae76a4416d4366</sys_scope>
         <sys_update_name>item_option_new_06e900dfc3f112105784ba2ed40131cd</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-16 03:32:14</sys_updated_on>
+        <sys_updated_on>2024-11-19 11:31:32</sys_updated_on>
         <table/>
         <tooltip/>
         <topic_block/>
